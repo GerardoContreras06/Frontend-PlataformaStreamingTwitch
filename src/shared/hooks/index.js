@@ -4,4 +4,5 @@ export { logout } from './userLogout'
 export { useUserDetails } from './useUserDetails'
 export { useChannelSettings } from './useChangeSettings'
 export { useChangePassword } from './useChangePassword'
-export { useChannel }
+export { useChannelDetails } from './useChannelDetails';
+export { useFollowChannel } from './useFollowChannel'
